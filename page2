@@ -1,1 +1,188 @@
 
+<html>
+	<head>
+		<title>Calabria: Pagina 2 - Cultura e Tradizioni</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>CALABRIA: CULTURA E TRADIZIONI</h1>
+						<p>La Calabria non è solo natura e cucina, ma anche un ricco patrimonio culturale e tradizionale. Scopri le feste, i riti e le usanze che rendono unica questa regione.</p>
+						<h2>Esplora la cultura calabrese.</h2>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">CALABRIA</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li class="active"><a href="page2.html">Pagina 2</a></li>
+							<li><a href="page3.html">Pagina 3</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://twitter.com" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://facebook.com" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://instagram.com" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">Cultura</span>
+									<h2><a href="https://www.calabriaportal.com/cultura-calabrese/">Feste e Tradizioni</a></h2>
+									<p>Dalle processioni religiose alle sagre popolari, la Calabria è una regione ricca di eventi che celebrano la sua storia e cultura.</p>
+								</header>
+								<a href="https://www.calabriaportal.com/cultura-calabrese/" class="image main"><img src="https://www.italybyevents.com/wp-content/uploads/2016/07/Sua-Maest%C3%A0-il-Peperoncino-750x464.jpg" alt="Festa del Peperoncino" /></a>
+								<ul class="actions special">
+									<li><a href="https://www.calabriaportal.com/cultura-calabrese/" class="button large">Scopri di più</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">Feste Religiose</span>
+										<h2><a href="https://www.calabriaportal.com/festa-san-francesco-paola/">La Festa di San Francesco di Paola</a></h2>
+									</header>
+									<a href="https://www.calabriaportal.com/festa-san-francesco-paola/" class="image fit"><img src="https://www.calabriaportal.com/wp-content/uploads/2020/04/festa-san-francesco-paola.jpg" alt="San Francesco di Paola" /></a>
+									<p>Una delle feste religiose più sentite in Calabria, dedicata al patrono della regione.</p>
+									<ul class="actions special">
+										<li><a href="https://www.calabriaportal.com/festa-san-francesco-paola/" class="button">Scopri di più</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Sagre Popolari</span>
+										<h2><a href="https://www.calabriaportal.com/sagra-peperoncino-diamante/">La Sagra del Peperoncino</a></h2>
+									</header>
+									<a href="https://www.calabriaportal.com/sagra-peperoncino-diamante/" class="image fit"><img src="https://www.calabriaportal.com/wp-content/uploads/2020/07/sagra-peperoncino-diamante.jpg" alt="Sagra del Peperoncino" /></a>
+									<p>Un evento dedicato al peperoncino, simbolo della cucina calabrese, che si svolge ogni anno a Diamante.</p>
+									<ul class="actions special">
+										<li><a href="https://www.calabriaportal.com/sagra-peperoncino-diamante/" class="button">Scopri di più</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Arte e Artigianato</span>
+										<h2><a href="https://www.calabriaportal.com/ceramiche-seminara/">Ceramiche di Seminara</a></h2>
+									</header>
+									<a href="https://www.calabriaportal.com/ceramiche-seminara/" class="image fit"><img src="https://www.calabriaportal.com/wp-content/uploads/2020/05/ceramiche-seminara.jpg" alt="Ceramiche di Seminara" /></a>
+									<p>Scopri l'arte della ceramica tradizionale calabrese, famosa per i suoi colori vivaci e motivi unici.</p>
+									<ul class="actions special">
+										<li><a href="https://www.calabriaportal.com/ceramiche-seminara/" class="button">Scopri di più</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Musica e Danza</span>
+										<h2><a href="https://www.calabriaportal.com/tarantella-calabrese/">Tarantella Calabrese</a></h2>
+									</header>
+									<a href="https://www.calabriaportal.com/tarantella-calabrese/" class="image fit"><img src="https://www.calabriaportal.com/wp-content/uploads/2020/06/tarantella-calabrese.jpg" alt="Tarantella Calabrese" /></a>
+									<p>La tarantella, danza tradizionale calabrese, è un'espressione di gioia e vitalità.</p>
+									<ul class="actions special">
+										<li><a href="https://www.calabriaportal.com/tarantella-calabrese/" class="button">Scopri di più</a></li>
+									</ul>
+								</article>
+							</section>
+
+						<!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<a href="index.html" class="page">1</a>
+									<a href="#" class="page active">2</a>
+									<a href="page3.html" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="page8.html" class="page">8</a>
+									<a href="page9.html" class="page">9</a>
+									<a href="page10.html" class="page">10</a>
+									<a href="page3.html" class="next">Next</a>
+								</div>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Nome</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Messaggio</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Invia Messaggio" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Indirizzo</h3>
+								<p>1234 Via Dante #87257<br />
+								Tropea, Calabria</p>
+							</section>
+							<section>
+								<h3>Telefono</h3>
+								<p><a href="tel:+390000000000">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="mailto:calabria@regionecalabria.it">calabria@regionecalabria.it</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://twitter.com" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://facebook.com" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://instagram.com" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://github.com" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Calabria Terra di Bellezze</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
